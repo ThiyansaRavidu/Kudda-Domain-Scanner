@@ -28,63 +28,45 @@ This Go-based network information tool allows users to query a wide range of API
 
 1. **Clone the Repository**:
 
-    ```bash
+    ```
     git clone https://github.com/ThiyansaRavidu/Kudda-Domain-Scanner.git
-    cd Kudda-Domain-Scanner
+    cd Kudda-Domain-Scanner-main/Kudda Domain Checker
     ```
 
-2. **Build the Project**:
+2. **Run the Project**:
 
-    ```bash
-    go build -o network-info.exe
     ```
-
-3. **Run the Tool**:
-
-    ```bash
-    network-info.exe
+    go run main.go
     ```
 
 ### Linux Installation
 
 1. **Clone the Repository**:
 
-    ```bash
+    ```
     git clone https://github.com/ThiyansaRavidu/Kudda-Domain-Scanner.git
-    cd Kudda-Domain-Scanner
+    cd Kudda-Domain-Scanner-main/Kudda Domain Checker
     ```
 
-2. **Build the Project**:
+2. **Run the Tool**:
 
-    ```bash
-    go build -o network-info
     ```
-
-3. **Run the Tool**:
-
-    ```bash
-    ./network-info
+    go run main.go
     ```
 
 ### MacOS Installation
 
 1. **Clone the Repository**:
 
-    ```bash
+    ```
     git clone https://github.com/ThiyansaRavidu/Kudda-Domain-Scanner.git
-    cd Kudda-Domain-Scanner
+    cd Kudda-Domain-Scanner-main/Kudda Domain Checker
     ```
 
-2. **Build the Project**:
+2. **Run the Project**:
 
-    ```bash
-    go build -o network-info
     ```
-
-3. **Run the Tool**:
-
-    ```bash
-    ./network-info
+    go run main.go
     ```
 
 ## Usage
